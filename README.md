@@ -21,6 +21,9 @@
 <a href="https://www.linkedin.com/in/tanvirul-islam-software-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
   <a href="https://web.facebook.com/tanvir.muhmmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/?_rdc=1&_rdr" height="30" width="40" />
   </a>
+    <a href="mailto:tanvir1ariyan@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/Gmail-333333?logo=gmail" alt="gmail" height="30"  />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
