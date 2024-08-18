@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tanvirul Islam</h1>
-<div align="center"> <img src="20240705_175056-EDIT2.webp"> </div>
+<div align="center"> <img src="cover.webp"> </div>
 <h3 align="center">A passionate Software Engineer From Bangladesh. I work in Corporate IT Sector</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
