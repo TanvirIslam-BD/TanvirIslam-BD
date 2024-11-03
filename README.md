@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WebCommander | Software Development](https://www.webalive.com.au/)
 
-- 🌱 I’m currently learning **Data science & machine learning **
+- 🌱 I’m currently learning **AI & Machine Learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanvirIslam-BD](https://github.com/TanvirIslam-BD)
 
