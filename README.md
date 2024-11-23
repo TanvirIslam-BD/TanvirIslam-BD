@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanvirIslam-BD](https://github.com/TanvirIslam-BD)
 
-- 💬 Ask me about **Software Developement**
+- 💬 Ask me about **Software Development or Machine Learning!**
 
 - 📫 How to reach me
 
