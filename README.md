@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Tanvirul Islam</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/Your paragraph text.png"> </div>
-<h3 align="center">A passionate Software Engineer. I work in Corporate IT Sector</h3>
+<h3 align="center">Software Engineer | AI | Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [WebCommander | Software Development](https://www.webalive.com.au/)
-
-- 🌱 I’m currently learning **AI & Machine Learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/TanvirIslam-BD](https://github.com/TanvirIslam-BD)
 
