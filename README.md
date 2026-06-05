@@ -1,7 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Tanvirul Islam</h1>
+<h1 align="center">I'm Tanvirul Islam</h1>
 <div align="center">
 
-**Software Engineer** &nbsp;|&nbsp; ![AI/ML](https://img.shields.io/badge/⚙_AI%20%2F%20ML-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489) ![MCP · AI Agents](https://img.shields.io/badge/◈_MCP%20·%20AI%20Agents-E1F5EE?style=flat-square&color=E1F5EE&logoColor=085041)
+**Software Engineer** &nbsp;
+<div align="center">
+<img src="https://img.shields.io/badge/⚙%20AI%20%2F%20ML-EEEDFE?style=flat-square&labelColor=EEEDFE&logoColor=3C3489" />
+<img src="https://img.shields.io/badge/◈%20MCP%20·%20AI%20Agents-E1F5EE?style=flat-square&labelColor=E1F5EE&logoColor=085041" />
+</div>
 
 `Java` &nbsp;`Python` &nbsp; `C#` &nbsp; `TypeScript` &nbsp;`JavaScript` &nbsp;&nbsp;—&nbsp;&nbsp; `Grails` &nbsp;`FastAPI` &nbsp;`Django` &nbsp;`Flask`
 
