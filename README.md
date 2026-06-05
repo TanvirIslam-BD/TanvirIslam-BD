@@ -3,12 +3,12 @@
 
 **Software Engineer** &nbsp;|&nbsp; ![AI/ML](https://img.shields.io/badge/⚙_AI%20%2F%20ML-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489) ![MCP · AI Agents](https://img.shields.io/badge/◈_MCP%20·%20AI%20Agents-E1F5EE?style=flat-square&color=E1F5EE&logoColor=085041)
 
-`Java` &nbsp;`Python` &nbsp;`TypeScript` &nbsp;`JavaScript` &nbsp;&nbsp;—&nbsp;&nbsp; `Grails` &nbsp;`FastAPI` &nbsp;`Django` &nbsp;`Flask`
+`Java` &nbsp;`Python` &nbsp; `C#` &nbsp; `TypeScript` &nbsp;`JavaScript` &nbsp;&nbsp;—&nbsp;&nbsp; `Grails` &nbsp;`FastAPI` &nbsp;`Django` &nbsp;`Flask`
 
 </div>
 <div align="center"> <img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/tanvirul.jpg"> </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - 🔭 I’m currently working at [WebAlive](https://www.webalive.com.au/)
 
@@ -53,7 +53,20 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-  
+
+### 🤝 MCP · AI Agents & Orchestration
+![Model Context Protocol (MCP)](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-7F77DD?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7F77DD?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7F77DD?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-7F77DD?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-7F77DD?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7F77DD?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-7F77DD?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-7F77DD?style=flat-square)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-7F77DD?style=flat-square)
+![Voice Assistants](https://img.shields.io/badge/Voice%20Assistants-7F77DD?style=flat-square)
+![Chatbots](https://img.shields.io/badge/Chatbots-7F77DD?style=flat-square)
+
 ### 🤖 LLM & Generative AI
 ![LLM Fine-tuning](https://img.shields.io/badge/LLM%20Fine--tuning-2C2C2A?style=flat-square)
 ![RLHF](https://img.shields.io/badge/RLHF-2C2C2A?style=flat-square)
@@ -68,20 +81,6 @@
 ![Diffusion Models](https://img.shields.io/badge/Diffusion%20Models-2C2C2A?style=flat-square)
 ![VAEs](https://img.shields.io/badge/VAEs-2C2C2A?style=flat-square)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-2C2C2A?style=flat-square)
-
-
-### 🤝 MCP · AI Agents & Orchestration
-![Model Context Protocol (MCP)](https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-7F77DD?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-7F77DD?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7F77DD?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-7F77DD?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-7F77DD?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-7F77DD?style=flat-square)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-7F77DD?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-7F77DD?style=flat-square)
-![IBM Watson](https://img.shields.io/badge/IBM%20Watson-7F77DD?style=flat-square)
-![Voice Assistants](https://img.shields.io/badge/Voice%20Assistants-7F77DD?style=flat-square)
-![Chatbots](https://img.shields.io/badge/Chatbots-7F77DD?style=flat-square)
 
 ### 🧠 Neural Networks & Deep Learning
 ![Transformers](https://img.shields.io/badge/Transformers-1D9E75?style=flat-square)
