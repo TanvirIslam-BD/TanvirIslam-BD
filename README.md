@@ -10,15 +10,21 @@
 `Java` &nbsp;`Python` &nbsp; `C#` &nbsp; `TypeScript` &nbsp;`JavaScript` &nbsp;&nbsp;—&nbsp;&nbsp; `Grails` &nbsp;`FastAPI` &nbsp;`Django` &nbsp;`Flask`
 
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/tanvirul-techs.png"> </div>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/tanvirul-techs.png" width="100%">
 
-- 🔭 I’m currently working at [WebAlive](https://www.webalive.com.au/)
+---
 
-- 👨‍💻 All of my projects are available at https://github.com/TanvirIslam-BD?tab=repositories
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💬 Ask me about **Software Development, AI and Machine Learning!**
+<div align="left">
+
+* 🔭 **Currently working at:** [WebAlive](https://www.webalive.com.au/)
+* 👨‍💻 **My projects:** [GitHub Repositories](https://github.com/TanvirIslam-BD?tab=repositories)
+* 🌱 **Learning:** I believe that every day is a learning opportunity.
+* 💬 **Ask me about:** **Software Development, AI, and Machine Learning!**
+
+</div>
+</div>
 
 <div align="left">
 
