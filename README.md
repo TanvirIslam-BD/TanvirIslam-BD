@@ -10,7 +10,7 @@
 `Java` &nbsp;`Python` &nbsp; `C#` &nbsp; `TypeScript` &nbsp;`JavaScript` &nbsp;&nbsp;—&nbsp;&nbsp; `Grails` &nbsp;`FastAPI` &nbsp;`Django` &nbsp;`Flask`
 
 </div>
-<div align="center"> <img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/tanvirul.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/TanvirIslam-BD/TanvirIslam-BD/main/tanvirul-techs.png"> </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
